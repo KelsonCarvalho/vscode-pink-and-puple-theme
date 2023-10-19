@@ -9,10 +9,10 @@
   "categories": [
     "Themes"
   ],
-  "icon": "icon aqui",
+  "icon": "icon.jpg",
     "repository": {
     "type": "git",
-    "url": "https://github.com/NoslekCode/bluered-theme"
+    "url": "https://github.com/NoslekCode/vscode-pink-and-puple-theme.git"
   },
   "keywords": [
     "pink",
