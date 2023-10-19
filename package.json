@@ -1,0 +1,33 @@
+{
+  "name": "vscode-pink-and-puple-theme",
+  "displayName": "vscode-pink-and-puple-theme",
+  "description": "Tema Pink And Purple deixe seu Vs Code Com muito mais estilo!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon aqui",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/NoslekCode/bluered-theme"
+  },
+  "keywords": [
+    "pink",
+    "purple",
+    "dark",
+    "theme"
+  ],
+  "publisher": "kelsoncarvalho",
+  "contributes": {
+    "themes": [
+      {
+        "label": "vscode-pink-and-puple-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vscode-pink-and-puple-theme-color-theme.json"
+      }
+    ]
+  }
+}
