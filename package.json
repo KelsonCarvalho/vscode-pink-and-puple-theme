@@ -1,15 +1,15 @@
 {
   "name": "vscode-pink-and-puple-theme",
   "displayName": "vscode-pink-and-puple-theme",
-  "description": "Tema Pink And Purple deixe seu Vs Code Com muito mais estilo!",
-  "version": "0.0.1",
+  "description": "Explore a fusão ousada de Pink and Purple, um tema que transcende a simplicidade. O encontro entre a vivacidade do rosa e a profundidade do roxo cria uma paleta sofisticada e moderna.  Essa combinação cativante não é apenas uma celebração de cores, mas uma expressão audaciosa de estilo.",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.83.0"
   },
   "categories": [
     "Themes"
   ],
-  "icon": "icon.jpg",
+  "icon": "icon.png",
     "repository": {
     "type": "git",
     "url": "https://github.com/NoslekCode/vscode-pink-and-puple-theme.git"

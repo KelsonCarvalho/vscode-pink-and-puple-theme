@@ -1,16 +1,16 @@
-# vscode-pink-and-puple-theme README
+# Tema Pink And Purple Kelson Carvalho
 
-## Working with Markdown
+### Explore a fusão ousada de Pink and Purple, um tema que transcende a simplicidade. O encontro entre a vivacidade do rosa e a profundidade do roxo cria uma paleta sofisticada e moderna.  Essa combinação cativante não é apenas uma celebração de cores, mas uma expressão audaciosa de estilo.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![](https://github.com/NoslekCode/vscode-pink-and-puple-theme/blob/main/Captura%20de%20tela%202023-10-19%20002657.png?raw=true)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![](https://github.com/NoslekCode/vscode-pink-and-puple-theme/blob/main/Captura%20de%20tela%202023-10-19%20002837.png?raw=true)
 
-## For more information
+![](https://github.com/NoslekCode/vscode-pink-and-puple-theme/blob/main/Captura%20de%20tela%202023-10-19%20002853.png?raw=true)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![](https://github.com/NoslekCode/vscode-pink-and-puple-theme/blob/main/Captura%20de%20tela%202023-10-19%20003043.png?raw=true)
 
-**Enjoy!**
+### Desenvolvedor do tema Kelson Carvalho
+
+* GITHUB: https://github.com/NoslekCode
+* FACEBOOK: https://www.facebook.com/kelsoncarvalhoo
