@@ -1,4 +1,4 @@
-# Tema Pink And Purple Kelson Carvalho
+# Tema Pink And Purple
 
 ### Explore a fusão ousada de Pink and Purple, um tema que transcende a simplicidade. O encontro entre a vivacidade do rosa e a profundidade do roxo cria uma paleta sofisticada e moderna.  Essa combinação cativante não é apenas uma celebração de cores, mas uma expressão audaciosa de estilo.
 
